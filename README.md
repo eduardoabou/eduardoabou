@@ -50,7 +50,7 @@ Desenvolvimento de solução para automatizar a consulta e o download de Notas F
 ## 📫 Contato
 
 - **GitHub:** [github.com/eduardoabou](https://github.com/eduardoabou)
-- **LinkedIn:** Adicionar link do perfil
+- **LinkedIn:** [Adicionar link do perfil](https://www.linkedin.com/in/eduardoabou/)
 
 ---
 
